@@ -63,27 +63,23 @@ This repository contains a Todo Web Application built using Spring Boot and Thym
 
 Here are some screenshots showing the key features and output of the application:
 
-1. **Customer API Operations using Postman**:
-   ![Customer Operations](sandbox:/mnt/data/proj-1.png)
-   ![Customer Operations - 2](sandbox:/mnt/data/proj-2.png)
+1. **Application Configuration in IDE**:
+   ![Application Properties](sandbox:/mnt/data/proj-1.png)
 
-2. **Application Running in IDE**:
-   ![Console Logs](sandbox:/mnt/data/proj-3.png)
+2. **Todo List UI**:
+   ![Todo List](sandbox:/mnt/data/proj-2.png)
 
-3. **Database View of Users**:
-   ![Database Output](sandbox:/mnt/data/proj-4.png)
+3. **Edit Todo Item UI**:
+   ![Edit Todo Item](sandbox:/mnt/data/proj-3.png)
 
-4. **JWT Token Decoding**:
-   ![JWT Output](sandbox:/mnt/data/proj-5.png)
+4. **Add Todo Item UI**:
+   ![Add Todo Item](sandbox:/mnt/data/proj-4.png)
 
-5. **Frontend UI - Customer Management**:
-   ![Customer Management UI](sandbox:/mnt/data/proj-6.png)
-   ![Update Customer UI](sandbox:/mnt/data/proj-7.png)
+5. **Updated Todo List UI**:
+   ![Updated Todo List](sandbox:/mnt/data/proj-5.png)
 
-6. **Code Snippets and Configuration**:
-   ![Security Config](sandbox:/mnt/data/proj-8.png)
-   ![Controller Logic](sandbox:/mnt/data/proj-9.png)
-   ![Project Structure](sandbox:/mnt/data/proj-10.png)
+6. **H2 Database Console**:
+   ![H2 Database Console](sandbox:/mnt/data/proj-6.png)
 
 ## Commits and Project Evolution
 
