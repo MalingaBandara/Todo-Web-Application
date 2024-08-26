@@ -64,22 +64,23 @@ This repository contains a Todo Web Application built using Spring Boot and Thym
 Here are some screenshots showing the key features and output of the application:
 
 1. **Application Configuration in IDE**:
-   ![Application Properties](sandbox:/mnt/data/proj-1.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-1.png" alt="Application Properties" style="height: 50%;">
 
 2. **Todo List UI**:
-   ![Todo List](sandbox:/mnt/data/proj-2.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-2.png" alt="Todo List" style="height: 50%;">
 
 3. **Edit Todo Item UI**:
-   ![Edit Todo Item](sandbox:/mnt/data/proj-3.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-3.png" alt="Edit Todo Item" style="height: 50%;">
 
 4. **Add Todo Item UI**:
-   ![Add Todo Item](sandbox:/mnt/data/proj-4.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-4.png" alt="Add Todo Item" style="height: 50%;">
 
 5. **Updated Todo List UI**:
-   ![Updated Todo List](sandbox:/mnt/data/proj-5.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-5.png" alt="Updated Todo List" style="height: 50%;">
 
 6. **H2 Database Console**:
-   ![H2 Database Console](sandbox:/mnt/data/proj-6.png)
+   <img src="https://github.com/MalingaBandara/Todo-Web-Application/blob/main/p2/proj-6.png" alt="H2 Database Console" style="height: 50%;">
+
 
 ## Commits and Project Evolution
 
